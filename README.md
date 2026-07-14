@@ -38,6 +38,8 @@ Power BI dashboard analyzing 18,868 Shopee transactions to uncover sales trends,
 
 **Tech Stack:** Power BI • DAX • Power Query
 
+Sales Analytics → Analyzed 18,868 transactions and identified opportunities to reduce a 15% cancellation rate.
+
 ---
 
 ### 👥 HR Employee Attrition & Risk Analysis
@@ -46,6 +48,8 @@ People Analytics dashboard helping HR identify high-risk employees and improve r
 
 **Tech Stack:** Power BI • DAX • Power Query
 
+HR Analytics → Identified 2,250 high-risk employees and proposed data-driven retention strategies.
+
 ---
 
 ### 🤖 CPU vs GPU Performance Comparison
@@ -53,6 +57,8 @@ People Analytics dashboard helping HR identify high-risk employees and improve r
 Machine Learning performance benchmarking using K-Means Clustering across CPU and GPU with statistical validation.
 
 **Tech Stack:** Python • cuML • Scikit-learn • Google Colab
+
+Machine Learning → Compared CPU and GPU performance across 12 datasets, demonstrating up to 50× GPU speedup on large-scale clustering.
 
 ## 📫 Let's Connect
 
