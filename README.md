@@ -53,3 +53,9 @@ People Analytics dashboard helping HR identify high-risk employees and improve r
 Machine Learning performance benchmarking using K-Means Clustering across CPU and GPU with statistical validation.
 
 **Tech Stack:** Python • cuML • Scikit-learn • Google Colab
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandukukuh&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandukukuh&layout=compact)
