@@ -56,6 +56,6 @@ Machine Learning performance benchmarking using K-Means Clustering across CPU an
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandukukuh&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panduwibowo-eng&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandukukuh&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panduwibowo-eng&layout=compact)
